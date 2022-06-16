@@ -1,0 +1,6 @@
+Testo per collaudare il programma. Devo vedere
+quanto e’ lunga la frase, e
+quante frasi ci sono.
+Inoltre conto quante righe ci sono.
+E visualizzo.
+Finito.
